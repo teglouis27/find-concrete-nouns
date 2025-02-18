@@ -1,2 +1,2 @@
-# find-concrete-nouns
-This uses prolog to find concrete nouns from WordNet so that way tariffs can be followed. A concrete noun is a noun that is concrete in at least one setting.
+# tariff-laws-JScripts
+This uses prolog and JScripts to comply with tariff laws. It is something that must be done using AI, since thousands of tariffs can change daily.
